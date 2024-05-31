@@ -1,2 +1,2 @@
-# Machine-Learning---image-recognition
+# Machine Learning: image-recognition
 Image recognition from hand written numbers
